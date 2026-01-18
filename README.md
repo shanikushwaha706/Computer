@@ -1,1 +1,10 @@
 # Computer
+
+<html>
+
+<body>
+
+<h1>Computer Pr-Docs</h1>
+  
+
+<button><h3><a href="link-here" target="_blank">WhatsApp</button></h3>
